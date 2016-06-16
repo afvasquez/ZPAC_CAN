@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "BastianZPAC", "BastianZPAC\BastianZPAC.cppproj", "{DA339E63-61C7-4393-B91A-5A63A207CA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA339E63-61C7-4393-B91A-5A63A207CA5E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DA339E63-61C7-4393-B91A-5A63A207CA5E}.Debug|ARM.Build.0 = Debug|ARM
+		{DA339E63-61C7-4393-B91A-5A63A207CA5E}.Release|ARM.ActiveCfg = Release|ARM
+		{DA339E63-61C7-4393-B91A-5A63A207CA5E}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
